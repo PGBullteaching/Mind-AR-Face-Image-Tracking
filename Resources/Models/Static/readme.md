@@ -69,6 +69,9 @@ https://cdn.jsdelivr.net/gh/AR-js-org/AR.js@master/aframe/examples/image-trackin
 ### Astronaut
 https://cdn.jsdelivr.net/gh/google/model-viewer@master/packages/shared-assets/models/Astronaut.glb
 
+### Brain 
+https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Assets@main/Models/BrainStem/glTF-Embedded/BrainStem.gltf
+
 ### Dragon Statue
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/DragonStatue-optim.glb
 
@@ -83,3 +86,6 @@ https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Reso
 
 ### Paintbrush
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/PaintBrush.gltf
+
+### Sci-fi helmet
+https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Assets@main/Models/SciFiHelmet/glTF/SciFiHelmet.gltf
