@@ -24,6 +24,7 @@ https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Reso
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/GreyRocks.gltf
 
 
+
 ## Vehicles
 
 ### Bike
@@ -44,6 +45,9 @@ https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Reso
 ### Doge dog
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/Doge.gltf
 
+### Flamingo
+https://cdn.jsdelivr.net/gh/AR-js-org/AR.js@master/three.js/examples/resources/Flamingo.glb
+
 ### Ruins
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/Ruins.gltf
 
@@ -56,11 +60,23 @@ https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Reso
 ### Stonehenge
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/Henge-optim.glb
 
+### Trex
+https://cdn.jsdelivr.net/gh/AR-js-org/AR.js@master/aframe/examples/image-tracking/nft/trex/scene.gltf
 
-## Objects
+
+## Objects/Other
+
+### Astronaut
+https://cdn.jsdelivr.net/gh/google/model-viewer@master/packages/shared-assets/models/Astronaut.glb
 
 ### Dragon Statue
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/DragonStatue-optim.glb
+
+### Expressive Robot
+https://cdn.jsdelivr.net/gh/google/model-viewer@master/packages/shared-assets/models/RobotExpressive.glb
+
+### Odd Shape
+https://cdn.jsdelivr.net/gh/google/model-viewer@master/packages/shared-assets/models/odd-shape.glb
 
 ### iPhone X
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/IphoneX-optim.glb
