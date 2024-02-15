@@ -6,3 +6,6 @@ https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Assets@main/Models/Animated
 
 ### HorseNCart
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Animated/HorseNCartAnim-optim.glb
+
+### Simple Morph
+https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Assets@main/Models/SimpleMorph/glTF-Embedded/SimpleMorph.gltf
