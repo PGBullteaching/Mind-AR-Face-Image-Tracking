@@ -15,10 +15,13 @@ https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Reso
 https://github.com/PGBullteaching/Mind-AR-Face-Image-Tracking/blob/main/Resources/Fonts/Synonym_Medium_Regular.json
 
 
+
+
 ## Monospace
 
 ### Space Mono
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Fonts/Space_Mono_Regular.json
+
 
 
 
