@@ -1,4 +1,4 @@
-CDN links, right click the model you want to use and press copy link address and post them between the <a-assets> tag on line 29 and </a-assets> tag on line 72 like this:
+CDN links, right click the model you want to use and press copy link address or copy link to highlight and paste them between the <a-assets> tag on line 29 and </a-assets> tag on line 72 like this:
 <a-asset-item 
   id="modelName"
   src="https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/CartoonDucky-optim.glb">
