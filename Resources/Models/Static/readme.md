@@ -2,8 +2,7 @@ CDN links, copy the link to the model you want to use and post them in the <a-as
 
 ## Cartoony
 
-### Button
-https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/CartoonButton.gltf
+### [Button](https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/CartoonButton.gltf)
 
 ### Coin
 https://cdn.jsdelivr.net/gh/PGBullteaching/Mind-AR-Face-Image-Tracking@main/Resources/Models/Static/CartoonCoin.gltf
